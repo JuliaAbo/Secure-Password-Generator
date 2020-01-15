@@ -2,7 +2,7 @@
 A script that generates a secure password based on this xkcd comic about secure password generation: 
 https://xkcd.com/936/
 
-##How to Use
+## How to Use
 
 Type ./xkcdpwgen into your command line in order to run the program. It will generate a password, by default, of four words in a string. You can specify the following commands to change the contents of the generated password.
 
